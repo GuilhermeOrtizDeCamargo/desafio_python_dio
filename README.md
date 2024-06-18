@@ -4,4 +4,5 @@
 
 ### Projeto com Depósito, Saque e Extrato.
 ### Na segunda versão foram incluidas funções e criação de conta e usuário.
-### Na terceira versão foram incluidas a criação de cliente e vinculação da conta e usuário.
+### Na terceira versão foram incluidas a criação de cliente e vinculação da conta e usuário. 
+### (A terceira versão foi corrigida, Usar a versão 4).
